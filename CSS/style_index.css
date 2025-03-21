@@ -4,6 +4,7 @@ background-color: #B67332;
 p{
 color: #EEE6D8;
   font-family: Century Gothic;
+  text-align: center;
 }
 h1{
 color: #EB9F04;
@@ -12,4 +13,5 @@ color: #EB9F04;
 }
 img{
 border-radius: 0 20px 0 20px
+  height: 200
 }
